@@ -8,14 +8,14 @@ public class Rental {
     private Car car;
     private int days;
 
-    // Constructor
+    //Constructor
     public Rental(Customer customer, Car car, int days) {
         this.customer = customer;
         this.car = car;
         this.days = days;
     }
 
-    // Getters
+    //Get Method
     public Customer getCustomer() {
         return customer;
     }

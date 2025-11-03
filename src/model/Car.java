@@ -6,7 +6,7 @@ public class Car {
     private int year;
     private double dailyRate;
 
-    // Constructor
+    //Constructor
     public Car(String id, String model, int year, double dailyRate) {
         this.id = id;
         this.model = model;
@@ -14,7 +14,7 @@ public class Car {
         this.dailyRate = dailyRate;
     }
 
-    // Getters
+    // Get Method
     public String getId() {
         return id;
     }
@@ -31,7 +31,6 @@ public class Car {
         return dailyRate;
     }
 
-    // Optional: for easy printing
     @Override
     public String toString() {
         return model + " (" + year + ")";

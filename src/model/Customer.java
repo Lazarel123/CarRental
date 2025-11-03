@@ -5,14 +5,14 @@ public class Customer {
     private String name;
     private String email;
 
-    // Constructor
+    //Constructor
     public Customer(String id, String name, String email) {
         this.id = id;
         this.name = name;
         this.email = email;
     }
 
-    // Getters
+    //Get Method
     public String getId() {
         return id;
     }
