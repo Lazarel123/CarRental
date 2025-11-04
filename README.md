@@ -12,6 +12,8 @@ Customer – Holds customer info (ID, name, license, contact).
 
 Rental – Connects a customer and a car; tracks dates and total cost.
 
+++ 2 More added classes not included ++
+
 Main Functionalities
 
 Add and list available cars.
