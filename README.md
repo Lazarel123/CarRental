@@ -22,3 +22,6 @@ Rent and return cars.
 Display rental details and cost calculations.
 Maintain and display system records.
 The goal of this project is to simulate a real-world car rental management workflow using object-oriented programming principles.
+
+
+++ Shto klasa te reja dhe rregullo kodin ++
